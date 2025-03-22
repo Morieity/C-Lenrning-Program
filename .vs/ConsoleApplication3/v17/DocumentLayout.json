@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\helloworld\\ConsoleApplication3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\helloworld\\ConsoleApplication3\\ConsoleApplication3\\application.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApplication3\\application.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\helloworld\\ConsoleApplication3\\ConsoleApplication3\\registrar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApplication3\\registrar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\helloworld\\ConsoleApplication3\\ConsoleApplication3\\studentSchedule.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApplication3\\studentSchedule.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\helloworld\\ConsoleApplication3\\ConsoleApplication3\\studentSchedule.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApplication3\\studentSchedule.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\helloworld\\ConsoleApplication3\\ConsoleApplication3\\student.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApplication3\\student.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\helloworld\\ConsoleApplication3\\ConsoleApplication3\\student.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApplication3\\student.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\helloworld\\ConsoleApplication3\\ConsoleApplication3\\registrar.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApplication3\\registrar.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\helloworld\\ConsoleApplication3\\ConsoleApplication3\\courseRoster.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApplication3\\courseRoster.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\helloworld\\ConsoleApplication3\\ConsoleApplication3\\courseRoster.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApplication3\\courseRoster.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\helloworld\\ConsoleApplication3\\ConsoleApplication3\\course.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApplication3\\course.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\helloworld\\ConsoleApplication3\\ConsoleApplication3\\course.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApplication3\\course.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 199,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "registrar.cpp",
+              "DocumentMoniker": "D:\\helloworld\\ConsoleApplication3\\ConsoleApplication3\\registrar.cpp",
+              "RelativeDocumentMoniker": "ConsoleApplication3\\registrar.cpp",
+              "ToolTip": "D:\\helloworld\\ConsoleApplication3\\ConsoleApplication3\\registrar.cpp",
+              "RelativeToolTip": "ConsoleApplication3\\registrar.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAhwBAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-21T15:23:42.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "registrar.h",
+              "DocumentMoniker": "D:\\helloworld\\ConsoleApplication3\\ConsoleApplication3\\registrar.h",
+              "RelativeDocumentMoniker": "ConsoleApplication3\\registrar.h",
+              "ToolTip": "D:\\helloworld\\ConsoleApplication3\\ConsoleApplication3\\registrar.h",
+              "RelativeToolTip": "ConsoleApplication3\\registrar.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-21T15:04:13.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "student.cpp",
+              "DocumentMoniker": "D:\\helloworld\\ConsoleApplication3\\ConsoleApplication3\\student.cpp",
+              "RelativeDocumentMoniker": "ConsoleApplication3\\student.cpp",
+              "ToolTip": "D:\\helloworld\\ConsoleApplication3\\ConsoleApplication3\\student.cpp",
+              "RelativeToolTip": "ConsoleApplication3\\student.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-21T14:55:02.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "student.h",
+              "DocumentMoniker": "D:\\helloworld\\ConsoleApplication3\\ConsoleApplication3\\student.h",
+              "RelativeDocumentMoniker": "ConsoleApplication3\\student.h",
+              "ToolTip": "D:\\helloworld\\ConsoleApplication3\\ConsoleApplication3\\student.h",
+              "RelativeToolTip": "ConsoleApplication3\\student.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-21T13:16:16.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "studentSchedule.cpp",
+              "DocumentMoniker": "D:\\helloworld\\ConsoleApplication3\\ConsoleApplication3\\studentSchedule.cpp",
+              "RelativeDocumentMoniker": "ConsoleApplication3\\studentSchedule.cpp",
+              "ToolTip": "D:\\helloworld\\ConsoleApplication3\\ConsoleApplication3\\studentSchedule.cpp",
+              "RelativeToolTip": "ConsoleApplication3\\studentSchedule.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-21T12:15:23.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "studentSchedule.h",
+              "DocumentMoniker": "D:\\helloworld\\ConsoleApplication3\\ConsoleApplication3\\studentSchedule.h",
+              "RelativeDocumentMoniker": "ConsoleApplication3\\studentSchedule.h",
+              "ToolTip": "D:\\helloworld\\ConsoleApplication3\\ConsoleApplication3\\studentSchedule.h",
+              "RelativeToolTip": "ConsoleApplication3\\studentSchedule.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-19T12:51:05.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "course.cpp",
+              "DocumentMoniker": "D:\\helloworld\\ConsoleApplication3\\ConsoleApplication3\\course.cpp",
+              "RelativeDocumentMoniker": "ConsoleApplication3\\course.cpp",
+              "ToolTip": "D:\\helloworld\\ConsoleApplication3\\ConsoleApplication3\\course.cpp",
+              "RelativeToolTip": "ConsoleApplication3\\course.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-19T06:45:30.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "course.h",
+              "DocumentMoniker": "D:\\helloworld\\ConsoleApplication3\\ConsoleApplication3\\course.h",
+              "RelativeDocumentMoniker": "ConsoleApplication3\\course.h",
+              "ToolTip": "D:\\helloworld\\ConsoleApplication3\\ConsoleApplication3\\course.h",
+              "RelativeToolTip": "ConsoleApplication3\\course.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-19T06:40:21.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "courseRoster.cpp",
+              "DocumentMoniker": "D:\\helloworld\\ConsoleApplication3\\ConsoleApplication3\\courseRoster.cpp",
+              "RelativeDocumentMoniker": "ConsoleApplication3\\courseRoster.cpp",
+              "ToolTip": "D:\\helloworld\\ConsoleApplication3\\ConsoleApplication3\\courseRoster.cpp",
+              "RelativeToolTip": "ConsoleApplication3\\courseRoster.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-19T06:27:14.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "courseRoster.h",
+              "DocumentMoniker": "D:\\helloworld\\ConsoleApplication3\\ConsoleApplication3\\courseRoster.h",
+              "RelativeDocumentMoniker": "ConsoleApplication3\\courseRoster.h",
+              "ToolTip": "D:\\helloworld\\ConsoleApplication3\\ConsoleApplication3\\courseRoster.h",
+              "RelativeToolTip": "ConsoleApplication3\\courseRoster.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-19T06:19:43.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "application.cpp",
+              "DocumentMoniker": "D:\\helloworld\\ConsoleApplication3\\ConsoleApplication3\\application.cpp",
+              "RelativeDocumentMoniker": "ConsoleApplication3\\application.cpp",
+              "ToolTip": "D:\\helloworld\\ConsoleApplication3\\ConsoleApplication3\\application.cpp",
+              "RelativeToolTip": "ConsoleApplication3\\application.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-19T06:14:30.5Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
